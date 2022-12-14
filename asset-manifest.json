@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Practice-Task-1-Portfolio/static/css/main.fffbb2a6.css",
+    "main.css": "/Practice-Task-1-Portfolio/static/css/main.1c8e1351.css",
     "main.js": "/Practice-Task-1-Portfolio/static/js/main.7f140c63.js",
     "static/media/online-kino.jpeg": "/Practice-Task-1-Portfolio/static/media/online-kino.b6e4cc72f6b2b6542cea.jpeg",
     "static/media/admin-panel.png": "/Practice-Task-1-Portfolio/static/media/admin-panel.1a2d5f30d9d41b5e6740.png",
@@ -14,11 +14,11 @@
     "static/media/ts.png": "/Practice-Task-1-Portfolio/static/media/ts.e36952fcf2d418f31f4e.png",
     "static/media/nextjs.webp": "/Practice-Task-1-Portfolio/static/media/nextjs.b29c7c0e8916949c9f29.webp",
     "index.html": "/Practice-Task-1-Portfolio/index.html",
-    "main.fffbb2a6.css.map": "/Practice-Task-1-Portfolio/static/css/main.fffbb2a6.css.map",
+    "main.1c8e1351.css.map": "/Practice-Task-1-Portfolio/static/css/main.1c8e1351.css.map",
     "main.7f140c63.js.map": "/Practice-Task-1-Portfolio/static/js/main.7f140c63.js.map"
   },
   "entrypoints": [
-    "static/css/main.fffbb2a6.css",
+    "static/css/main.1c8e1351.css",
     "static/js/main.7f140c63.js"
   ]
 }
