@@ -1,0 +1,61 @@
+.btn {
+	@apply rounded-md w-[200px] text-white h-[40px] bg-blue-500 font-bold text-sm text-center;
+}
+
+.skills {
+	@apply relative mb-8;
+}
+
+.skillsList {
+	padding: 15px;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+	gap: 20px;
+}
+
+.skillsList li {
+	@apply flex flex-col main-shadow rounded-lg py-3 px-3;
+}
+
+.skillsList li span {
+	@apply font-bold text-xl self-center mb-4;
+}
+
+.wrap {
+	@apply relative bg-white;
+}
+
+.wrap button {
+	@apply absolute top-3 right-3;
+}
+
+.wrap button svg {
+	@apply w-6 h-6 font-bold;
+}
+
+.skillsList .img {
+	@apply max-w-[300px] mb-5;
+}
+
+.skillsList .img img {
+	@apply w-full object-cover rounded-lg;
+	-webkit-box-shadow: 1px 1px 6px 11px rgba(34, 60, 80, 0.27);
+	-moz-box-shadow: 1px 1px 6px 11px rgba(34, 60, 80, 0.27);
+	box-shadow: 1px 1px 6px 11px rgba(34, 60, 80, 0.27);
+}
+
+@media (max-width: 920px) {
+	.skills {
+		@apply flex flex-col;
+	}
+
+	.skills .btn {
+		@apply self-center;
+	}
+}
+
+@media (max-width: 824px) {
+	.skillsList .img {
+		@apply max-w-[380px] self-center;
+	}
+}

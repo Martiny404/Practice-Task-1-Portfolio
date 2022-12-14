@@ -1,0 +1,40 @@
+.hero {
+	@apply w-full flex  mb-12;
+}
+
+.hero h1 {
+	@apply text-3xl font-bold flex flex-col mb-5;
+}
+
+.hero h2 {
+	@apply text-xl font-bold mb-4;
+}
+
+.hero .right {
+	@apply max-w-[500px] ml-[50px];
+}
+
+.hero .right img {
+	@apply w-full rounded-lg;
+	-webkit-box-shadow: -6px 16px 8px 0px rgba(34, 60, 80, 0.35);
+	-moz-box-shadow: -6px 16px 8px 0px rgba(34, 60, 80, 0.35);
+	box-shadow: -6px 16px 8px 0px rgba(34, 60, 80, 0.35);
+}
+
+.hero h1 span:first-child {
+	@apply mb-4;
+}
+
+@media (max-width: 920px) {
+	.hero {
+		@apply flex-col items-center;
+	}
+
+	.hero .right {
+		@apply mt-7 ml-0;
+	}
+
+	.hero h1 {
+		@apply text-2xl text-center;
+	}
+}

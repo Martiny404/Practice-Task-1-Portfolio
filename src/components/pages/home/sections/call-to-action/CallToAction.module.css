@@ -1,0 +1,27 @@
+.call {
+	@apply mb-20;
+}
+
+.call h2 {
+	@apply text-xl mb-5 font-bold;
+}
+
+.call p {
+	@apply mb-5 leading-relaxed text-indigo-900 font-medium max-w-[450px];
+}
+
+.call p span {
+	@apply text-red-500;
+}
+
+.call a {
+	@apply flex items-center  mb-5 font-bold text-blue-600 underline transition-colors  hover:text-red-600;
+}
+
+.icon {
+	@apply w-8 h-8 mr-2 bg-white rounded-full flex items-center justify-center;
+}
+
+.icon svg {
+	@apply w-6 h-6 text-red-500;
+}

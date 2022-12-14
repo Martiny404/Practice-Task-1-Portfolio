@@ -1,0 +1,29 @@
+.header {
+	@apply flex fixed w-full top-0 left-0 justify-between bg-orange-300 rounded-md main-shadow h-16 items-center px-12 z-1;
+}
+
+.header a {
+	@apply text-indigo-900 underline font-bold hover:text-indigo-500 transition-colors;
+}
+
+.header .nav ul {
+	@apply flex items-center;
+}
+
+.header .nav ul li:not(:last-child) {
+	@apply mr-6;
+}
+
+.header .nav ul li a svg {
+	@apply w-6 h-6;
+}
+
+@media (max-width: 500px) {
+	.header {
+		@apply px-3;
+	}
+
+	.header a {
+		@apply text-sm;
+	}
+}

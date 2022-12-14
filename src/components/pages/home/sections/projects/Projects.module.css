@@ -1,0 +1,6 @@
+.title {
+	@apply text-xl font-bold mb-6;
+}
+.proj {
+	@apply mb-6;
+}
