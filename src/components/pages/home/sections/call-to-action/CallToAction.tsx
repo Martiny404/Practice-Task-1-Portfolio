@@ -12,7 +12,11 @@ export const CallToAction: FC = () => {
 				<span>{'"Яндекс Формы"'}</span>, доступ к ней по ссылке ниже
 			</p>
 
-			<a href='/' target='_blank' rel='noreferrer'>
+			<a
+				href='https://forms.yandex.ru/u/639982fe43f74f00aac9ec35/'
+				target='_blank'
+				rel='noreferrer'
+			>
 				<div className={styles.icon}>
 					<MaterialIcon muiName='FaYandex' />
 				</div>
