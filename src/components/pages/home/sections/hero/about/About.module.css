@@ -9,3 +9,7 @@
 .list li {
 	@apply text-indigo-900 font-medium;
 }
+
+.list li span {
+	@apply text-red-500;
+}

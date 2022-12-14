@@ -1,6 +1,7 @@
 import { FC } from 'react';
 import styles from './Hero.module.css';
 import hero from '../../../../../images/hero.jpeg';
+import me from '../../../../../images/me.jpeg';
 import { About } from './about/About';
 
 export const Hero: FC = () => {
@@ -19,6 +20,7 @@ export const Hero: FC = () => {
 			</div>
 			<div className={styles.right}>
 				<img src={hero} alt='programmer' />
+				<img className={styles.me} src={me} alt='me' />
 			</div>
 		</section>
 	);

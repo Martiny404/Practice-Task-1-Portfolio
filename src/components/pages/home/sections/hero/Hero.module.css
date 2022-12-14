@@ -25,6 +25,12 @@
 	@apply mb-4;
 }
 
+.me {
+	margin-top: 20px;
+	height: 450px;
+	object-fit: cover;
+}
+
 @media (max-width: 920px) {
 	.hero {
 		@apply flex-col items-center;

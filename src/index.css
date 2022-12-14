@@ -208,3 +208,12 @@ main {
 		height: 230px;
 	}
 }
+
+#yandex-form {
+	@apply bg-white p-4 max-w-[800px] rounded-lg main-shadow overflow-hidden;
+	margin: 0 auto;
+}
+
+#yandex-form html body {
+	max-width: 320px !important;
+}
