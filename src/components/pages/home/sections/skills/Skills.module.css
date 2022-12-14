@@ -59,3 +59,9 @@
 		@apply max-w-[380px] self-center;
 	}
 }
+
+@media (max-width: 455px) {
+	.skillsList {
+		grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+	}
+}
