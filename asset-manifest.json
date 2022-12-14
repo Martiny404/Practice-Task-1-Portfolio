@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Practice-Task-1-Portfolio/static/css/main.fffbb2a6.css",
+    "main.js": "/Practice-Task-1-Portfolio/static/js/main.7f140c63.js",
+    "static/media/online-kino.jpeg": "/Practice-Task-1-Portfolio/static/media/online-kino.b6e4cc72f6b2b6542cea.jpeg",
+    "static/media/admin-panel.png": "/Practice-Task-1-Portfolio/static/media/admin-panel.1a2d5f30d9d41b5e6740.png",
+    "static/media/social.jpg": "/Practice-Task-1-Portfolio/static/media/social.451564d777905b82472d.jpg",
+    "static/media/hero.jpeg": "/Practice-Task-1-Portfolio/static/media/hero.dcfccd7ece43272eafda.jpeg",
+    "static/media/shop.jpeg": "/Practice-Task-1-Portfolio/static/media/shop.34966742ae6088d1fb04.jpeg",
+    "static/media/mongo.png": "/Practice-Task-1-Portfolio/static/media/mongo.7252bb2a60df2bd5a41a.png",
+    "static/media/react.webp": "/Practice-Task-1-Portfolio/static/media/react.002a20b0792c7b6169d2.webp",
+    "static/media/postgres.png": "/Practice-Task-1-Portfolio/static/media/postgres.82bec56dcdf0c6d662db.png",
+    "static/media/nest.png": "/Practice-Task-1-Portfolio/static/media/nest.d42198fec1840dfeab1b.png",
+    "static/media/ts.png": "/Practice-Task-1-Portfolio/static/media/ts.e36952fcf2d418f31f4e.png",
+    "static/media/nextjs.webp": "/Practice-Task-1-Portfolio/static/media/nextjs.b29c7c0e8916949c9f29.webp",
+    "index.html": "/Practice-Task-1-Portfolio/index.html",
+    "main.fffbb2a6.css.map": "/Practice-Task-1-Portfolio/static/css/main.fffbb2a6.css.map",
+    "main.7f140c63.js.map": "/Practice-Task-1-Portfolio/static/js/main.7f140c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fffbb2a6.css",
+    "static/js/main.7f140c63.js"
+  ]
+}
